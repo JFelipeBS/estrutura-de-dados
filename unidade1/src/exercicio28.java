@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.print.attribute.Size2DSyntax;
-
 public class exercicio28 {
 
     static Scanner in = new Scanner(System.in);
