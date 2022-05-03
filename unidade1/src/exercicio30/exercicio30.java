@@ -1,4 +1,4 @@
-package exercicio30;
+package unidade1.src.exercicio30;
 
 import java.util.List;
 import java.util.ArrayList;

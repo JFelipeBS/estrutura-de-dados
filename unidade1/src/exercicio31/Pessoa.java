@@ -1,4 +1,4 @@
-package exercicio31;
+package unidade1.src.exercicio31;
 
 import java.io.Serializable;
 

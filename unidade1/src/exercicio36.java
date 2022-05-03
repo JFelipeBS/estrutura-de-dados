@@ -1,3 +1,7 @@
+package unidade1.src;
+
+
+
 import java.util.Scanner;
 
 public class exercicio36 {

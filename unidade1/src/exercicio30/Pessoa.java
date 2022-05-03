@@ -1,4 +1,4 @@
-package exercicio30;
+package unidade1.src.exercicio30;
 
 public class Pessoa {
 
