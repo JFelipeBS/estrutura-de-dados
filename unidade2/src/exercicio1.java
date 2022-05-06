@@ -21,8 +21,8 @@ public class exercicio1 {
 
         System.out.println("O topo da pilha e: " + test.peek());
 
-        System.out.println("Pilha vazia? : "+test.isEmpty());
-        System.out.println("Pilha cheia? : "+test.isFull());
+        System.out.println("Pilha vazia? : " + test.isEmpty());
+        System.out.println("Pilha cheia? : " + test.isFull());
 
     }
 

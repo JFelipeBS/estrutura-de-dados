@@ -4,7 +4,7 @@ public class StackArray<E> implements InterfaceStack<E> {
 
     private int top;
     private Object[] array;
-    private int size;
+    public int size;
 
     public StackArray(int size) {
         this.top = -1;
